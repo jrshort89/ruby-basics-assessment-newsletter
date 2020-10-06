@@ -3,7 +3,6 @@ Generating this week's newsletter...
 SUBJECT: Flatiron DC Newsletter - Nov 20, 2019
 
 RECIPIENTS: rhona@grimes.info, edmond@ko.org, bryant@cummingsfisher.biz
-
 BODY:
 Flatiron DC Newsletter - Nov 20, 2019
 
@@ -19,4 +18,4 @@ Technology
 by: Olevia Torphy Kuvalis
 Imagine you are writing an email. You are in front of the computer. You are operating the computer, clicking a mouse and typing on a keyboard, but the message will be sent to a human over the internet. So you are working before the computer, but with a human behind the computer.
 
-Flatiron Newsletter · DC · 1440 G St NW, Washington, DC 20005
+Flatiron Newsletter · DC · 1440 G St NW, Washington, DC 20005 
